@@ -1,0 +1,14 @@
+c:\users\nereu\documents\visual studio 2017\Projects\TCPServer\TCPServer\obj\Debug\TCPServer.csprojResolveAssemblyReference.cache
+c:\users\nereu\documents\visual studio 2017\Projects\TCPServer\TCPServer\obj\Debug\MainWindow.g.cs
+c:\users\nereu\documents\visual studio 2017\Projects\TCPServer\TCPServer\obj\Debug\App.g.cs
+c:\users\nereu\documents\visual studio 2017\Projects\TCPServer\TCPServer\obj\Debug\TCPServer_MarkupCompile.cache
+c:\users\nereu\documents\visual studio 2017\Projects\TCPServer\TCPServer\obj\Debug\TCPServer_MarkupCompile.lref
+c:\users\nereu\documents\visual studio 2017\Projects\TCPServer\TCPServer\bin\Debug\TCPServer.exe.config
+c:\users\nereu\documents\visual studio 2017\Projects\TCPServer\TCPServer\bin\Debug\TCPServer.exe
+c:\users\nereu\documents\visual studio 2017\Projects\TCPServer\TCPServer\bin\Debug\TCPServer.pdb
+c:\users\nereu\documents\visual studio 2017\Projects\TCPServer\TCPServer\obj\Debug\MainWindow.baml
+c:\users\nereu\documents\visual studio 2017\Projects\TCPServer\TCPServer\obj\Debug\TCPServer.g.resources
+c:\users\nereu\documents\visual studio 2017\Projects\TCPServer\TCPServer\obj\Debug\TCPServer.Properties.Resources.resources
+c:\users\nereu\documents\visual studio 2017\Projects\TCPServer\TCPServer\obj\Debug\TCPServer.csproj.GenerateResource.Cache
+c:\users\nereu\documents\visual studio 2017\Projects\TCPServer\TCPServer\obj\Debug\TCPServer.exe
+c:\users\nereu\documents\visual studio 2017\Projects\TCPServer\TCPServer\obj\Debug\TCPServer.pdb

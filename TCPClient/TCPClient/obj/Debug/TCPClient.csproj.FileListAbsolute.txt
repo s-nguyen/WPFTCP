@@ -1,0 +1,13 @@
+c:\users\nereu\documents\visual studio 2017\Projects\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config
+c:\users\nereu\documents\visual studio 2017\Projects\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+c:\users\nereu\documents\visual studio 2017\Projects\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+c:\users\nereu\documents\visual studio 2017\Projects\TCPClient\TCPClient\obj\Debug\MainWindow.g.cs
+c:\users\nereu\documents\visual studio 2017\Projects\TCPClient\TCPClient\obj\Debug\App.g.cs
+c:\users\nereu\documents\visual studio 2017\Projects\TCPClient\TCPClient\obj\Debug\TCPClient_MarkupCompile.cache
+c:\users\nereu\documents\visual studio 2017\Projects\TCPClient\TCPClient\obj\Debug\TCPClient_MarkupCompile.lref
+c:\users\nereu\documents\visual studio 2017\Projects\TCPClient\TCPClient\obj\Debug\MainWindow.baml
+c:\users\nereu\documents\visual studio 2017\Projects\TCPClient\TCPClient\obj\Debug\TCPClient.g.resources
+c:\users\nereu\documents\visual studio 2017\Projects\TCPClient\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+c:\users\nereu\documents\visual studio 2017\Projects\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.Cache
+c:\users\nereu\documents\visual studio 2017\Projects\TCPClient\TCPClient\obj\Debug\TCPClient.exe
+c:\users\nereu\documents\visual studio 2017\Projects\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
